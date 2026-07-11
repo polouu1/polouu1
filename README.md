@@ -1,6 +1,6 @@
 # Hi, I'm Cenk 👋
 
-MSc student in **Solid-State Physics / Materials Science** at Süleyman Demirel University. I work on **MoS₂/p-Si Schottky diodes** — fabricating them with PVD and modeling them numerically — and I'm moving toward first-principles (DFT) materials modeling with Quantum ESPRESSO.
+MSc student in **Solid-State Physics / Materials Science** at Süleyman Demirel University. I work on **semiconductor devices and thin films** — from PVD fabrication to device modeling — and I'm moving toward first-principles (DFT) materials modeling with Quantum ESPRESSO.
 
 I like building tools that make lab work faster:
 
